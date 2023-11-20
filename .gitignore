@@ -33,3 +33,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+
+android-studio/
+
+android-studio-ide-201.7199119-linux.tar.*
